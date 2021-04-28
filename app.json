@@ -1,0 +1,12 @@
+{
+  "name": "TestRunnerApp",
+  "displayName": "TestRunnerApp",
+  "expo": {
+    "name": "TestRunnerApp",
+    "slug": "TestRunnerApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
